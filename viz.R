@@ -11,3 +11,5 @@ str(mpg)
 # 산점도
 ggplot(mpg, aes(x = displ, y = cty)) + 
   geom_point()
+
+ddddd
